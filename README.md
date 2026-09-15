@@ -17,4 +17,4 @@ A robust console-based Inventory Management application developed in C++. This p
 ## 🚀 How to Run
 1. Clone this repository to your local machine:
    `bash
-   git clone [https://github.com/YourUsername/Inventory-Management-CPP.git](https://github.com/YourUsername/Inventory-Management-CPP.git)
+   git clone [https://github.com/etman09/Inventory-Management-CPP.git](https://github.com/etman09/Inventory-Management-CPP.git)
